@@ -6,7 +6,7 @@
 // const person = {
 //     name,
 //     userAge ,
-//     city : 'tehran'
+//     city : 'tehrann' 
 // };
 // console.log(person);
 
